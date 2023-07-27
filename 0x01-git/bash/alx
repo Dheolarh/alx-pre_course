@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "ALX"
+^c
+^C
+
+
+cd ..
+root@526c0f81cdd2:~/alx-pre_course/0x01-git/bash# clear
